@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-salman-gous-qadri-2626a3286/](https://www.linkedin.com/in/md-salman-gous-qadri-2626a3286/)
-
 - 📫 How to reach me **sha0495662gmail.com**
 
 <h3 align="left">Connect with me:</h3>
