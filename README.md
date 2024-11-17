@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsalmangousqadri13&label=Profile%20views&color=0e75b6&style=flat" alt="mdsalmangousqadri13" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **React.js Frameworks**
 
 - 📫 How to reach me **sha0495662gmail.com**
 
